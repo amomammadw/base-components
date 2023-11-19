@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-red-800 w-fit">
+    <div class="bg-brand-500 w-fit">
         Custom Button
 
         <button v-bind="$attrs">
